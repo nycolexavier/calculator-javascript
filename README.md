@@ -1,7 +1,7 @@
 ![calculator banner](https://user-images.githubusercontent.com/74930052/132010423-ffbf39ff-3084-4ed2-bf61-ae9be29c675c.png)
 -----
 
-<img src="https://img.shields.io/static/v1?label=Status&message=incomplete&color=ff0000&style=for-the-badge&logo=ghost"/>
+<img src="https://img.shields.io/static/v1?label=Status&message=complete&color=0080000&style=for-the-badge&logo=ghost"/>
  
 <p align="center">O tutorial está disponível no canal do Gustavo Neitzke: <a href="https://www.youtube.com/watch?v=42TShjXR0m0" > aqui </a> </p>
 
